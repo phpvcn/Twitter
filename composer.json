@@ -1,5 +1,5 @@
 {
-    "name": "phpvcn/SocialiteProvidersTwitter",
+    "name": "phpvcn/socialite-providers-twitter",
     "description": "Twitter OAuth1 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
